@@ -3,7 +3,7 @@
 SeaLantern 插件市场的静态站点，用于展示和分发 SeaLantern 插件。
 
 - [官方源: https://sealantern-studio.github.io/plugin-market/](https://sealantern-studio.github.io/plugin-market/)
-- [官方镜像源: https://sealantern-studio.needhelp.icu/](https://sealantern-studio.needhelp.icu/)
+- ~~[官方镜像源: https://sealantern-studio.needhelp.icu/](https://sealantern-studio.needhelp.icu/)~~ (托管平台限制,下载有问题,暂停)
 
 ## 核心思路
 
